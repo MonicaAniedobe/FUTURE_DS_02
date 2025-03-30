@@ -9,7 +9,7 @@ This project analyzes customer support tickets to identify the most frequently r
 
 ## 🛠️ Tools Used
 - **Python** (Pandas, Matplotlib, Seaborn, NLTK)
-- **Jupyter Notebook / Google Colab**
+- ** Google Colab**
 - **GitHub** 
 
 ## 🏆 Key Findings
@@ -30,4 +30,4 @@ This project analyzes customer support tickets to identify the most frequently r
 - [customer_support_analysis (csv.zip)](https://github.com/MonicaAniedobe/FUTURE_DS_02/blob/main/customer_support_tickets.csv.zip)  
 -  [cleaned customer support tickets (csv)](https://github.com/MonicaAniedobe/FUTURE_DS_02/blob/main/cleaned_customer_support_tickets.csv) 
 -  [Customer Support Analyis Report](https://github.com/MonicaAniedobe/FUTURE_DS_02/blob/main/Customer%20Support%20Analysis%20Report.pdf)  
-
+- [Project codes](https://github.com/MonicaAniedobe/FUTURE_DS_02/blob/main/Project%20code.pdf)
