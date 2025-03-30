@@ -28,7 +28,7 @@ This project analyzes customer support tickets to identify the most frequently r
 
 ## 📁 Project Files
 - `customer_support_analysis.ipynb` –  
-- `cleaned_customer_support_tickets.csv` – Processed dataset  
+-  [cleaned customer support tickets (csv)](https://github.com/MonicaAniedobe/FUTURE_DS_02/blob/main/cleaned_customer_support_tickets.csv) 
 - `Customer_Support_Insights.pdf` – Summary report  
 
 ## 📩 Contact
