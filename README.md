@@ -8,7 +8,7 @@ This project analyzes customer support tickets to identify the most frequently r
 - Columns include customer issue descriptions, timestamps, sentiment labels, and resolution status.
 
 ## 🛠️ Tools Used
-- **Python** (Pandas, Matplotlib, Seaborn, NLTK
+- **Python** (Pandas, Matplotlib, Seaborn, NLTK)
 - **Jupyter Notebook / Google Colab**
 - **GitHub** 
 
@@ -27,9 +27,7 @@ This project analyzes customer support tickets to identify the most frequently r
 ✅ Strengthen data management strategies.  
 
 ## 📁 Project Files
-- `customer_support_analysis.ipynb` –  
+- [customer_support_analysis (csv.zip)](https://github.com/MonicaAniedobe/FUTURE_DS_02/blob/main/customer_support_tickets.csv.zip)  
 -  [cleaned customer support tickets (csv)](https://github.com/MonicaAniedobe/FUTURE_DS_02/blob/main/cleaned_customer_support_tickets.csv) 
 - `Customer_Support_Insights.pdf` – Summary report  
 
-## 📩 Contact
-If you have any questions or feedback, feel free to reach out!  
