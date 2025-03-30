@@ -9,7 +9,7 @@ This project analyzes customer support tickets to identify the most frequently r
 
 ## 🛠️ Tools Used
 - **Python** (Pandas, Matplotlib, Seaborn, NLTK)
-- ** Google Colab**
+- **Google Colab**
 - **GitHub** 
 
 ## 🏆 Key Findings
